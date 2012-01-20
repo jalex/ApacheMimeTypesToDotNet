@@ -1,0 +1,8 @@
+/*.user
+/*.suo
+/ApacheMimeTypes/*.user
+/ApacheMimeTypes/bin
+/ApacheMimeTypes/obj
+/Generator/*.user
+/Generator/bin
+/Generator/obj
